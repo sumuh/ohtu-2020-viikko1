@@ -11,6 +11,8 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class VarastoTest {
+    
+    //testi
 
     Varasto varasto;
     double vertailuTarkkuus = 0.0001;
